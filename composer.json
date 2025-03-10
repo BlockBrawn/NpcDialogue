@@ -1,5 +1,5 @@
 {
-    "name": "cosmicpe/npcdialogue",
+    "name": "blockbrawn/npcdialogue",
     "description": "A PocketMine-MP library for making NPC dialogues",
     "type": "library",
     "license": "GPL-3.0-only",
@@ -19,7 +19,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "cosmicpe\\npcdialogue\\": "src/cosmicpe/npcdialogue"
+            "cosmicpe\\npcdialogue\\": "src/cosmicpe/npcdialogue/"
         }
     },
     "authors": [
